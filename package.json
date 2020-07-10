@@ -1,0 +1,18 @@
+{
+  "name": "kjwenger.github.io",
+  "version": "0.0.1",
+  "description": "A project for an organization site (https://pages.github.com/)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjwenger/kjwenger.github.io.git"
+  },
+  "author": "Klaus Wenger <kjwenger@yahoo.com>",
+  "license": "The Unlicense <https://unlicense.org>",
+  "bugs": {
+    "url": "https://github.com/kjwenger/kjwenger.github.io/issues"
+  },
+  "homepage": "https://github.com/kjwenger/kjwenger.github.io#readme"
+}
